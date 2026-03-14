@@ -1,0 +1,7 @@
+build/
+bin/
+obj/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
